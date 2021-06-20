@@ -1,4 +1,4 @@
-# Brackets Visual Modifications
+# Brackets Visual Modifications (WIP)
 ## Corresponding theme-file here: [Bluemist](https://github.com/Huygenz/brackets-bluemist).
 
  Style modifications for the Brackets editor UI (not theme!).

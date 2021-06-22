@@ -7,12 +7,7 @@
  * http://www.apache.org/licenses/LICENSE-2.0
  *
  * Designed and built with all the love in the world @twitter by @mdo and @fat.
-
-#333d48
-#3c3f41
-
-
- */
+*/
 
 .clearfix {
     *zoom: 1
@@ -6334,7 +6329,7 @@ body.has-appshell-menus #titlebar {
     width: 30px;
     height: 100%;
     box-sizing: border-box;
-    background: #5D5F60;
+    background: #333d48;
     padding: 7px 0;
     display: -webkit-box;
     display: -moz-box;
@@ -8282,7 +8277,7 @@ table .right {
 
 .dark .table-striped tbody tr:nth-child(odd) td,
 .dark .table-striped tbody tr:nth-child(odd) th {
-    background-color: #313131
+    background-color: #394551                           /*here 313131*/
 }
 
 .table-striped tbody tr:nth-child(even) td,
@@ -8667,7 +8662,7 @@ code {
 }
 
 .CodeMirror-scroll {
-    background-color: #f8f8f8
+    background-color: #394551
 }
 
 .CodeMirror {
@@ -8677,7 +8672,7 @@ code {
 }
 
 .dark .CodeMirror {
-    color: #ccc
+    color: #394551
 }
 
 .CodeMirror-activeline-background {
@@ -8685,7 +8680,7 @@ code {
 }
 
 .CodeMirror-focused .CodeMirror-activeline-background {
-    background: #ebefef
+    background: #333d48
 }
 
 .show-line-padding .CodeMirror-focused .CodeMirror-activeline-background {
@@ -9468,15 +9463,15 @@ ins.jstree-icon {
 
 .dark.platform-win .CodeMirror-scrollbar-filler,
 .dark.platform-win .CodeMirror-gutter-filler {
-    background-color: #0f0f0f
+    background-color: #333d48                       /*here*/
 }
 
 .dark.platform-win ::-webkit-scrollbar {
-    background-color: #0f0f0f
+    background-color: #333d48                       /*here*/
 }
 
 .dark.platform-win ::-webkit-scrollbar-thumb {
-    box-shadow: 0 0 0 12px #313131 inset
+    box-shadow: 0 0 0 12px #394551 inset            /*here 313131*/
 }
 
 .dark.platform-win ::-webkit-scrollbar-thumb:hover,
@@ -9766,7 +9761,7 @@ img {
 }
 
 .dark #status-bar {
-    background: #1c1c1e;
+    background: #2c363f;
     border-top: 1px solid #343434;
     color: #ccc
 }
@@ -9804,7 +9799,7 @@ img {
 }
 
 .dark #status-indicators {
-    background: #1c1c1e;
+    background: #2c363f;
     color: #ccc
 }
 
@@ -10869,7 +10864,7 @@ img {
 }
 
 .inline-widget .CodeMirror-scroll .CodeMirror-linenumbers {
-    background-color: #e6e9e9
+    background-color: #394551
 }
 
 .dark .inline-widget .CodeMirror-scroll .CodeMirror-linenumbers {

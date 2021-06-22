@@ -173,7 +173,7 @@ textarea {
 @media print {
     * {
         text-shadow: none !important;
-        color: #000 !important;
+        color: #2c363f !important;
         background: transparent !important;
         box-shadow: none !important
     }
@@ -2891,7 +2891,7 @@ table th[class*="span"],
     width: 0;
     height: 0;
     vertical-align: top;
-    border-top: 4px solid #000;
+    border-top: 4px solid #2c363f;
     border-right: 4px solid transparent;
     border-left: 4px solid transparent;
     content: ""
@@ -3017,7 +3017,7 @@ table th[class*="span"],
 .dropup .caret,
 .navbar-fixed-bottom .dropdown .caret {
     border-top: 0;
-    border-bottom: 4px solid #000;
+    border-bottom: 4px solid #2c363f;
     content: ""
 }
 
@@ -3163,7 +3163,7 @@ table th[class*="span"],
     font-size: 20px;
     font-weight: bold;
     line-height: 18px;
-    color: #000;
+    color: #2c363f;
     text-shadow: 0 1px 0 #fff;
     opacity: .2;
     filter: alpha(opacity=20)
@@ -3171,7 +3171,7 @@ table th[class*="span"],
 
 .close:hover,
 .close:focus {
-    color: #000;
+    color: #2c363f;
     text-decoration: none;
     cursor: pointer;
     opacity: .4;
@@ -3524,7 +3524,7 @@ input[type="button"].btn-block {
     background-image: linear-gradient(to bottom, #444, #222);
     background-repeat: repeat-x;
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff444444', endColorstr='#ff222222', GradientType=0);
-    border-color: #222 #222 #000;
+    border-color: #222 #222 #2c363f;
     border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
     *background-color: #222;
     filter: progid:DXImageTransform.Microsoft.gradient(enabled=false)
@@ -4914,7 +4914,7 @@ input[type="submit"].btn.btn-mini {
     background-image: linear-gradient(to bottom, #151515, #040404);
     background-repeat: repeat-x;
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff151515', endColorstr='#ff040404', GradientType=0);
-    border-color: #040404 #040404 #000;
+    border-color: #040404 #040404 #2c363f;
     border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
     *background-color: #040404;
     filter: progid:DXImageTransform.Microsoft.gradient(enabled=false)
@@ -4928,12 +4928,12 @@ input[type="submit"].btn.btn-mini {
 .navbar-inverse .btn-navbar[disabled] {
     color: #fff;
     background-color: #040404;
-    *background-color: #000
+    *background-color: #2c363f
 }
 
 .navbar-inverse .btn-navbar:active,
 .navbar-inverse .btn-navbar.active {
-    background-color: #000 \9
+    background-color: #2c363f \9
 }
 
 .breadcrumb {
@@ -5173,7 +5173,7 @@ input[type="submit"].btn.btn-mini {
     bottom: 0;
     left: 0;
     z-index: 1040;
-    background-color: #000
+    background-color: #2c363f
 }
 
 .modal-backdrop.fade {
@@ -5325,7 +5325,7 @@ input[type="submit"].btn.btn-mini {
     color: #fff;
     text-align: center;
     text-decoration: none;
-    background-color: #000;
+    background-color: #2c363f;
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
     border-radius: 4px
@@ -5344,7 +5344,7 @@ input[type="submit"].btn.btn-mini {
     left: 50%;
     margin-left: -5px;
     border-width: 5px 5px 0;
-    border-top-color: #000
+    border-top-color: #2c363f
 }
 
 .tooltip.right .tooltip-arrow {
@@ -5352,7 +5352,7 @@ input[type="submit"].btn.btn-mini {
     left: 0;
     margin-top: -5px;
     border-width: 5px 5px 5px 0;
-    border-right-color: #000
+    border-right-color: #2c363f
 }
 
 .tooltip.left .tooltip-arrow {
@@ -5360,7 +5360,7 @@ input[type="submit"].btn.btn-mini {
     right: 0;
     margin-top: -5px;
     border-width: 5px 0 5px 5px;
-    border-left-color: #000
+    border-left-color: #2c363f
 }
 
 .tooltip.bottom .tooltip-arrow {
@@ -5368,7 +5368,7 @@ input[type="submit"].btn.btn-mini {
     left: 50%;
     margin-left: -5px;
     border-width: 0 5px 5px;
-    border-bottom-color: #000
+    border-bottom-color: #2c363f
 }
 
 .popover {
@@ -6252,11 +6252,11 @@ a:focus {
 }
 
 .wsv-drag-ghost.dragging-current-file {
-    background-color: #2D2E30
+    background-color: #2c363f
 }
 
 #working-set-list-container .drag-show-as-selected {
-    background-color: #2D2E30
+    background-color: #2c363f
 }
 
 .simple-toolbar-layout.toolbar {
@@ -6389,7 +6389,7 @@ body.has-appshell-menus #titlebar {
     font-size: 14px;
     padding: 4px 8px;
     background-color: #fff;
-    color: #000;
+    color: #2c363f;
     position: relative
 }
 
@@ -6478,7 +6478,7 @@ body.has-appshell-menus #titlebar {
 .context-menu a,
 .codehint-menu a,
 .inlinemenu-menu a {
-    color: #000;
+    color: #2c363f;
     text-shadow: none;
     cursor: default
 }
@@ -6518,7 +6518,7 @@ body.has-appshell-menus #titlebar {
 .dark .context-menu .dropdown-toggle:focus,
 .dark .codehint-menu .dropdown-toggle:focus,
 .dark .inlinemenu-menu .dropdown-toggle:focus {
-    background-color: #000
+    background-color: #2c363f
 }
 
 .toolbar .nav .dropdown-toggle:hover,
@@ -6529,7 +6529,7 @@ body.has-appshell-menus #titlebar {
 .context-menu .dropdown.open .dropdown-toggle,
 .codehint-menu .dropdown.open .dropdown-toggle,
 .inlinemenu-menu .dropdown.open .dropdown-toggle {
-    color: #000;
+    color: #2c363f;
     background: #e0f0fa;
     border-color: #e0f0fa
 }
@@ -6574,7 +6574,7 @@ body.has-appshell-menus #titlebar {
 .dark .context-menu .dropdown-menu,
 .dark .codehint-menu .dropdown-menu,
 .dark .inlinemenu-menu .dropdown-menu {
-    background-color: #000;
+    background-color: #2c363f;
     box-shadow: 0 3px 9px rgba(0, 0, 0, 0.24)
 }
 
@@ -6585,7 +6585,7 @@ body.has-appshell-menus #titlebar {
     font-size: 13px;
     line-height: 18px;
     padding: 2px 10px 0 6px;
-    color: #000;
+    color: #2c363f;
     text-shadow: none;
     white-space: nowrap;
     -webkit-box-shadow: none;
@@ -6615,7 +6615,7 @@ body.has-appshell-menus #titlebar {
 .context-menu .dropdown-menu li a.highlight,
 .codehint-menu .dropdown-menu li a.highlight,
 .inlinemenu-menu .dropdown-menu li a.highlight {
-    color: #000;
+    color: #2c363f;
     background: #e0f0fa
 }
 
@@ -6656,7 +6656,7 @@ body.has-appshell-menus #titlebar {
 .dark .context-menu .dropdown-menu li a.disabled:hover,
 .dark .codehint-menu .dropdown-menu li a.disabled:hover,
 .dark .inlinemenu-menu .dropdown-menu li a.disabled:hover {
-    background: #000
+    background: #2c363f
 }
 
 .toolbar .nav .dropdown-menu li a::before,
@@ -6778,19 +6778,19 @@ body.has-appshell-menus #titlebar {
 
 .codehint-menu .dropdown-menu li a:hover,
 .inlinemenu-menu .dropdown-menu li a:hover {
-    color: #000;
+    color: #2c363f;
     background-color: #fff
 }
 
 .dark .codehint-menu .dropdown-menu li a:hover,
 .dark .inlinemenu-menu .dropdown-menu li a:hover {
     color: #fff;
-    background-color: #000
+    background-color: #2c363f
 }
 
 .codehint-menu .dropdown-menu li a.highlight:hover,
 .inlinemenu-menu .dropdown-menu li a.highlight:hover {
-    color: #000;
+    color: #2c363f;
     background-color: #e0f0fa
 }
 
@@ -6927,7 +6927,7 @@ body.has-appshell-menus #titlebar {
 
 .dropdownbutton-popup.dropdown-menu li a {
     padding: 1px 15px 1px 15px;
-    color: #000
+    color: #2c363f
 }
 
 .dark .dropdownbutton-popup.dropdown-menu li a {
@@ -6948,7 +6948,7 @@ body.has-appshell-menus #titlebar {
 
 .dropdownbutton-popup.dropdown-menu a.selected {
     background: #e0f0fa;
-    color: #000 !important
+    color: #2c363f !important
 }
 
 .dark .dropdownbutton-popup.dropdown-menu a.selected {
@@ -7059,7 +7059,7 @@ body.has-appshell-menus #titlebar {
 
 .dark .modal {
     background-color: #2c363f;
-    border: 1px solid #000
+    border: 0px solid #2c363f
 }
 
 .modal .close {
@@ -7119,7 +7119,7 @@ body.has-appshell-menus #titlebar {
 
 .dark .modal-footer {
     background-color: #2c363f;
-    border-top: 1px solid #343434
+    border-top: 0px solid #343434
 }
 
 .modal-footer .btn {
@@ -7207,7 +7207,7 @@ body.has-appshell-menus #titlebar {
 }
 
 .dialog-title {
-    color: #000;
+    color: #2c363f;
     margin-bottom: 0;
     margin-top: 0;
     font-size: 22px;
@@ -7233,7 +7233,7 @@ body.has-appshell-menus #titlebar {
 
 .dialog-message li {
     line-height: 20px;
-    color: #000;
+    color: #2c363f;
     padding: 0 0 5px
 }
 
@@ -7387,7 +7387,7 @@ a[href^="http"] {
 .extension-manager-dialog .modal-header .nav-tabs > li > a {
     min-width: 80px;
     min-height: 60px;
-    color: #000;
+    color: #2c363f;
     cursor: default;
     font-size: 12px;
     display: -webkit-box;
@@ -7425,8 +7425,8 @@ a[href^="http"] {
 }
 
 .dark .extension-manager-dialog .modal-header .nav-tabs > li > a:focus {
-    background-color: #000;
-    border-color: #000
+    background-color: #2c363f;
+    border-color: #2c363f
 }
 
 .extension-manager-dialog .modal-header .nav-tabs > li > a > img {
@@ -7802,7 +7802,7 @@ input[type="color"],
 .uneditable-input {
     background-color: #fff;
     border: 1px solid #b2b5b5;
-    color: #000;
+    color: #2c363f;
     font-size: 14px;
     font-weight: normal;
     -webkit-font-smoothing: antialiased;
@@ -7966,13 +7966,13 @@ input[type="color"]:disabled,
 .tooltip-inner {
     background: #fff;
     box-shadow: 0 3px 9px rgba(0, 0, 0, 0.24);
-    color: #000;
+    color: #2c363f;
     max-width: 220px;
     text-align: left
 }
 
 .dark .tooltip-inner {
-    background: #000;
+    background: #2c363f;
     box-shadow: 0 3px 9px rgba(0, 0, 0, 0.24);
     color: #fff
 }
@@ -7983,7 +7983,7 @@ input[type="color"]:disabled,
 }
 
 .dark .tooltip.top .tooltip-arrow {
-    border-top-color: #000
+    border-top-color: #2c363f
 }
 
 .tooltip.right .tooltip-arrow {
@@ -7992,7 +7992,7 @@ input[type="color"]:disabled,
 }
 
 .dark .tooltip.right .tooltip-arrow {
-    border-right-color: #000
+    border-right-color: #2c363f
 }
 
 .tooltip.left .tooltip-arrow {
@@ -8001,7 +8001,7 @@ input[type="color"]:disabled,
 }
 
 .dark .tooltip.left .tooltip-arrow {
-    border-left-color: #000
+    border-left-color: #2c363f
 }
 
 .tooltip.bottom .tooltip-arrow {
@@ -8010,7 +8010,7 @@ input[type="color"]:disabled,
 }
 
 .dark .tooltip.bottom .tooltip-arrow {
-    border-bottom-color: #000
+    border-bottom-color: #2c363f
 }
 
 .btn:hover,
@@ -8293,7 +8293,7 @@ table .right {
 .row-highlight tbody tr:hover td,
 .row-highlight tbody tr:hover th {
     background-color: #e0f0fa;
-    color: #000
+    color: #2c363f
 }
 
 .dark .row-highlight tbody tr:hover td,
@@ -8441,11 +8441,11 @@ select:active {
 
 select > option {
     background-color: #fff;
-    color: #000
+    color: #2c363f
 }
 
 .dark select > option {
-    background: #000;
+    background: #2c363f;
     color: #fff
 }
 
@@ -8498,11 +8498,11 @@ code {
 
 .dropdown-menu {
     background-color: #fff;
-    color: #000
+    color: #2c363f
 }
 
 .dark .dropdown-menu {
-    background-color: #000;
+    background-color: #2c363f;
     color: #fff
 }
 
@@ -8694,7 +8694,7 @@ code {
 
 .CodeMirror-focused .CodeMirror-activeline .CodeMirror-gutter-elt {
     background: #dee5e6;
-    color: #000
+    color: #2c363f
 }
 
 .CodeMirror-focused .CodeMirror-activeline .inline-widget .CodeMirror-gutter-elt {
@@ -8956,7 +8956,7 @@ div.CodeMirror-cursors .CodeMirror-cursor {
 
 .CodeMirror .CodeMirror-focused .CodeMirror-activeline .CodeMirror-gutter-elt {
     background: #d7dede;
-    color: #000
+    color: #2c363f
 }
 
 .CodeMirror .CodeMirror-matchingtag {
@@ -9077,7 +9077,7 @@ li.jstree-closed > ul {
 }
 
 .jstree-draggedOver {
-    background-color: #2D2E30 !important
+    background-color: #2c363f !important
 }
 
 .jstree-dragImage {
@@ -9229,8 +9229,8 @@ ins.jstree-icon {
 }
 
 #project-files-container .jstree-brackets .jstree-rename-input {
-    background: #000;
-    border: 1px solid #000;
+    background: #2c363f;
+    border: 1px solid #2c363f;
     border-radius: 2px;
     box-shadow: rgba(0, 0, 0, 0.06);
     box-sizing: border-box;
@@ -9263,7 +9263,7 @@ ins.jstree-icon {
 }
 
 #vakata-contextmenu.jstree-brackets-context a {
-    color: black
+    color: #2c363f
 }
 
 #vakata-contextmenu.jstree-brackets-context a:hover,
@@ -9271,7 +9271,7 @@ ins.jstree-icon {
     padding: 0 5px;
     background: #e8eff7;
     border: 1px solid #aecff7;
-    color: black;
+    color: #2c363f;
     border-radius: 2px
 }
 
@@ -9693,7 +9693,7 @@ img {
 }
 
 .dark .main-view {
-    background: #000
+    background: #2c363f
 }
 
 .main-view .sidebar,
@@ -10188,7 +10188,7 @@ img {
 
 #editor-holder .active-pane .pane-header {
     opacity: 1;
-    color: #000
+    color: #2c363f
 }
 
 .dark #editor-holder .active-pane .pane-header {
@@ -10259,7 +10259,7 @@ img {
 
 .dark .bottom-panel {
     background-color: #2c363f;
-    border-top: 1px solid #000
+    border-top: 1px solid #2c363f
 }
 
 .bottom-panel .check-all {
@@ -10310,12 +10310,12 @@ img {
 }
 
 .dark .bottom-panel .table-container .highlight {
-    background: #000
+    background: #2c363f
 }
 
 .bottom-panel .table-container tr.selected td {
     background-color: #d0d5d5;
-    color: #000
+    color: #2c363f
 }
 
 .dark .bottom-panel .table-container tr.selected td {
@@ -10594,7 +10594,7 @@ img {
 
 .sidebar-selection,
 .filetree-selection {
-    background: #2D2E30;
+    background: #2c363f;
     border-top: 1px solid rgba(0, 0, 0, 0.06);
     border-bottom: 1px solid rgba(255, 255, 255, 0.12);
     box-sizing: border-box;
@@ -10605,7 +10605,7 @@ img {
 
 .sidebar-selection-extension,
 .filetree-selection-extension {
-    background: #2D2E30;
+    background: #2c363f;
     border-top: 1px solid rgba(0, 0, 0, 0.06);
     border-bottom: 1px solid rgba(255, 255, 255, 0.12);
     box-sizing: border-box;
@@ -10664,7 +10664,7 @@ img {
     background-image: -o-linear-gradient(top, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0));
     background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0));
     background-repeat: repeat-x;
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#1a000000', endColorstr='#00000000', GradientType=0);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#1a000000', endColorstr='#2c363f00000', GradientType=0);
     background-position: 0 -5px;
     background-color: transparent
 }
@@ -10677,7 +10677,7 @@ img {
     background-image: -o-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.1));
     background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.1));
     background-repeat: repeat-x;
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#1a000000', GradientType=0);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#2c363f00000', endColorstr='#1a000000', GradientType=0);
     background-position: 0 5px;
     background-color: transparent
 }
@@ -10810,7 +10810,7 @@ img {
     vertical-align: middle;
     font-family: 'SourceSansPro', Helvetica, Arial, "Meiryo UI", "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
     font-size: 13px;
-    color: #000;
+    color: #2c363f;
     cursor: pointer
 }
 
@@ -11003,7 +11003,7 @@ img {
 }
 
 .related-container .related .selected {
-    color: #000;
+    color: #2c363f;
     transition: color .1s ease-out .15s
 }
 
@@ -11180,7 +11180,7 @@ body:not(.has-appshell-menus) .modal-bar {
 
 .dark body.in-browser .modal-bar,
 .dark body:not(.has-appshell-menus) .modal-bar {
-    border-top: 1px solid #000
+    border-top: 1px solid #2c363f
 }
 
 .modal-bar.popout {
@@ -11433,7 +11433,7 @@ body:not(.has-appshell-menus) .modal-bar {
 }
 
 .filter-trash-icon:hover {
-    color: #000
+    color: #2c363f
 }
 
 .filter-edit-icon {
@@ -11662,7 +11662,7 @@ textarea.exclusions-editor {
 
 .quick-search-container li.highlight {
     background-color: #e0f0fa;
-    color: #000
+    color: #2c363f
 }
 
 .dark .quick-search-container li.highlight {

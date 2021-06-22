@@ -5,6 +5,7 @@
  Unzip to Brackets/www/ folder (Windows 10), overwrite.
 
 Applied together with above linked theme, Brackets will look like this:
-![UnkemptArizonaalligatorlizard](https://user-images.githubusercontent.com/2411715/122936989-e6178b80-d371-11eb-839c-adb8e93c70ea.png)
+![AzureXinjiangovenator](https://user-images.githubusercontent.com/2411715/122951066-4829be00-d37d-11eb-8c15-2065a243f891.png)
+
 
 

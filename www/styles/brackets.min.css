@@ -8622,7 +8622,7 @@ code {
 }
 
 .dark .related-container {
-    background: #2c363f
+    background: #333d48!important  /*background right pane inline editor*/ 
 }
 
 .dark .related-container .selection {
@@ -8630,7 +8630,7 @@ code {
 }
 
 .dark .related-container .selection:before {
-    border-left: 9px solid #2c363f /*here*/
+    border-left: 9px solid #2c363f /*nothing here*/
 }
 
 .dark .related-container .related li {

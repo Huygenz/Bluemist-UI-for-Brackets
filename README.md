@@ -1,7 +1,7 @@
 # Brackets Bluemist UI
 ## Corresponding theme-file here: [Bluemist](https://github.com/Huygenz/brackets-bluemist).
 
- Style modifications for the Brackets UI (not theme!).
+ Color modifications for the Brackets UI (not theme!).
  Unzip to Brackets/www/ folder (Windows 10), overwrite.
 
 Applied together with above linked theme, Brackets will look like this:
